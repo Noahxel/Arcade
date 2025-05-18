@@ -1,0 +1,23 @@
+# Object files
+*.o
+
+# Libraries
+*.a
+
+# Executables
+*.exe
+
+# Unit_tests files
+*.gcda
+*.gcno
+*.txt
+
+# Web files
+*.html
+*.css
+
+# Vscode files
+*.vscode
+
+#checker_file
+*.log
